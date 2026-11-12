@@ -54,3 +54,14 @@
 .philosophy-end {
     color: #394751;
 }
+
+
+/* Final accessibility contrast improvements */
+
+.philosophy-inner > span {
+    color: #263944;
+}
+
+.philosophy-inner p em {
+    color: #354a56;
+}
